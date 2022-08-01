@@ -2,7 +2,7 @@
   
   ## Ödevin ekran görüntüsü
 
-   ![](SS.PNG)
+   ![](images/SS.PNG)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
