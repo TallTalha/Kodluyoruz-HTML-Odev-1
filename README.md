@@ -1,5 +1,5 @@
   # Kodluyoruz HTML eğitiminde bulunan ilk ödevin reposudur.
-  ##  www.patika.dev profilim : https://app.patika.dev/JessFlexx
+  ##  www.patika.dev profilim : [Profil Linki](https://app.patika.dev/JessFlexx)
   
   ## Ödevin ekran görüntüsü
 
